@@ -1,4 +1,3 @@
-# Python-DefendersOfTheRealm
 # Defenders of the Realm
 
 ![Captura 2](https://i.imgur.com/ifoinrD.png)
