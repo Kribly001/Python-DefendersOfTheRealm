@@ -5,13 +5,13 @@
 
 ## Descripción del Juego
 
-Bienvenido a Defenders of the Realm, un emocionante juego en el que debes defender tu reino de hordas de enemigos.
+Bienvenido a Defenders of the Realm, un emocionante juego en el que debes defender tu reino de millones de meteoritos.
 
 ## Características del Juego
 
 - Gráficos emocionantes
 - Control sencillo con teclado
-- Enemigos aleatorios
+- Enemigos(meteoritos) aleatorios
 - Sistema de puntuación
 
 ## Requisitos del Sistema
@@ -27,14 +27,14 @@ No se requiere instalación. Simplemente descarga el archivo o clonalo desde git
 
 ## Cómo Jugar
 
-Usa las teclas de flecha izquierda y derecha para mover al defensor y esquivar a los enemigos que caen del cielo. Tu objetivo es sobrevivir el mayor tiempo posible y obtener la puntuación más alta.
+Usa las teclas de flecha izquierda y derecha para mover el reino y esquivar a los meteoritos que caen del cielo. Tu objetivo es mantener al reino a salvo el mayor tiempo posible y obtener la puntuación más alta.
 
 ## Autor
 
-Este juego fue desarrollado por [Maximiliano Centeno].
+Este juego fue desarrollado por Maximiliano Centeno.
 
 ## Licencia
 
-Este juego está bajo la licencia [©Centeno 2023].
+Este juego está bajo la licencia ©Centeno 2023.
 
 
