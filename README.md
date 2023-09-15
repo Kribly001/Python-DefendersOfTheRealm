@@ -19,7 +19,7 @@ Bienvenido a Defenders of the Realm, un emocionante juego en el que debes defend
 
 Para jugar a Defenders of the Realm, necesitas:
 
-- Navegador web moderno
+- IDE de su preferencia
 - Teclado
 
 ## Instalación
