@@ -1,8 +1,8 @@
 # Python-DefendersOfTheRealm
 # Defenders of the Realm
 
-![Captura 1](https://i.imgur.com/apIDF3b.png)
-![Captura 2](https://i.imgur.com/ifoinrD.png)
+![Captura 1](https://i.imgur.com/apIDF3b.png | width=200)
+![Captura 2](https://i.imgur.com/ifoinrD.png | width=200)
 
 ## Descripción del Juego
 
@@ -24,7 +24,7 @@ Para jugar a Defenders of the Realm, necesitas:
 
 ## Instalación
 
-No se requiere instalación. Simplemente abre el archivo HTML en tu navegador y comienza a jugar.
+No se requiere instalación. Simplemente descarga el archivo o clonalo desde gitbash abrelo on tu IDE preferida y comienza a jugar.
 
 ## Cómo Jugar
 
@@ -36,6 +36,6 @@ Este juego fue desarrollado por [Maximiliano Centeno].
 
 ## Licencia
 
-Este juego está bajo la licencia [Centeno 2023].
+Este juego está bajo la licencia [©Centeno 2023].
 
 
