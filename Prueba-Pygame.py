@@ -14,7 +14,7 @@ RED = (255, 0, 0)
 
 # Crear la ventana del juego
 window = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Juego con Enemigos")
+pygame.display.set_caption("Defenders of the Realm")
 
 # Reloj para controlar la velocidad de actualización
 clock = pygame.time.Clock()
