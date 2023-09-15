@@ -1,8 +1,8 @@
 # Python-DefendersOfTheRealm
 # Defenders of the Realm
 
-![Captura 1](https://i.imgur.com/apIDF3b.png | width=200)
-![Captura 2](https://i.imgur.com/ifoinrD.png | width=200)
+![Captura 1](https://i.imgur.com/apIDF3b.png)
+![Captura 2](https://i.imgur.com/ifoinrD.png)
 
 ## Descripción del Juego
 
