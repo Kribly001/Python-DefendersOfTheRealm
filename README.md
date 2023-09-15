@@ -24,7 +24,7 @@ Para jugar a Defenders of the Realm, necesitas:
 
 ## Instalación
 
-No se requiere instalación. Simplemente descarga el archivo o clonalo desde gitbash abrelo on tu IDE preferida y comienza a jugar.
+No se requiere instalación. Simplemente descarga el archivo o clonalo desde gitbash. Una vez descargado lo abres con tu IDE preferida y comienza a jugar.
 
 ## Cómo Jugar
 
